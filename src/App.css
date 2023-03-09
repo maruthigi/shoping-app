@@ -1,0 +1,14 @@
+*{
+   box-sizing: border-box;
+}
+#logo{
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+color: black;
+}
+#logo::first-letter{
+   color: rgb(10, 166, 137);
+   font-size: 50px;
+}
+#logo:hover{
+   color: rgb(83, 215, 156);
+}

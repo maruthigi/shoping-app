@@ -1,0 +1,18 @@
+#reg{
+    background-color: rgb(219, 190, 246);
+}
+#reg1{
+background-color: rgb(251, 227, 227);
+}
+#logo{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+color: black;
+font-size: xx-large;
+}
+#logo::first-letter{
+    color: rgb(10, 166, 137);
+font-size: 50px;
+}
+#logo:hover{
+    color: rgb(83, 215, 156);
+}

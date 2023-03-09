@@ -1,0 +1,61 @@
+export const data=[
+    {
+        id:1,
+        img:"https://images.unsplash.com/photo-1602810316693-3667c854239a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+        name:'mens-shirts',
+         price:599,
+         catagory:"mens"
+},
+{
+id:2,
+img:"https://images.unsplash.com/photo-1626497764746-6dc36546b388?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+
+name:"mens-shirts",
+price:799,
+catagory:"mens"
+}
+,{
+    id:3,
+    img:"https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    name:"t-shirts",
+    price:1299,
+    catagory:"mens"
+
+},
+{
+    id:4,
+    img:"https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvb2RpZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    name:"hoodie",
+    price:699,
+    catagory:"mens"
+},
+{
+    id:5,
+    img:"https://img.freepik.com/free-psd/mens-cvc-crew-mockup-01_126278-108.jpg?size=338&ext=jpg&ga=GA1.2.403881839.1678188074&semt=ais",
+    name:"t-shirt",
+    price:399,
+    catagory:"kids"
+
+},
+{
+    id:6,
+    img:"https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWVucyUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    name:"shirt",
+    price:599,
+    catagory:"kids"
+},
+{
+    id:7,
+    img:"https://images.pexels.com/photos/1104014/pexels-photo-1104014.jpeg?auto=compress&cs=tinysrgb&w=600",
+    name:"shirt",
+    price:399,
+    catagory:"kids"
+},
+{
+    id:8,
+    img:"https://images.pexels.com/photos/786220/pexels-photo-786220.jpeg?auto=compress&cs=tinysrgb&w=600",
+    name:"cap",
+    price:599,
+    catagory:"kids"
+}
+]
